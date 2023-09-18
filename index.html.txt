@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hallo i am Yarik</title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+    <p>Welcome to my first webpage!</p>
+  </body>
+</html>
